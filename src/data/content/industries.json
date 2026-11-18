@@ -1,0 +1,112 @@
+[
+  {
+    "categories": [
+      "petrochemicals",
+      "textile"
+    ],
+    "featured": true,
+    "id": "ind-synthetic-fibres",
+    "intro": "Producers of polyester and other man-made fibres and filament.",
+    "name": "Synthetic Fibres",
+    "order": 1,
+    "slug": "synthetic-fibres",
+    "status": "published"
+  },
+  {
+    "categories": [
+      "textile",
+      "petrochemicals"
+    ],
+    "featured": true,
+    "id": "ind-weaving",
+    "intro": "Texturisers, weavers and knitters converting yarn into fabric.",
+    "name": "Weaving & Texturising",
+    "order": 2,
+    "slug": "weaving-texturising",
+    "status": "published"
+  },
+  {
+    "categories": [
+      "petrochemicals"
+    ],
+    "featured": true,
+    "id": "ind-pharma",
+    "intro": "Manufacturers of pharmaceutical ingredients and finished medicines.",
+    "name": "Pharmaceuticals",
+    "order": 3,
+    "slug": "pharmaceuticals",
+    "status": "published"
+  },
+  {
+    "categories": [
+      "petrochemicals"
+    ],
+    "featured": true,
+    "id": "ind-agrochem",
+    "intro": "Formulators of crop-protection and pest-control products.",
+    "name": "Agrochemicals & Pesticides",
+    "order": 4,
+    "slug": "agrochemicals",
+    "status": "published"
+  },
+  {
+    "categories": [
+      "petrochemicals"
+    ],
+    "featured": true,
+    "id": "ind-paints",
+    "intro": "Manufacturers of paints, coatings and thinners.",
+    "name": "Paints & Thinners",
+    "order": 5,
+    "slug": "paints-coatings",
+    "status": "published"
+  },
+  {
+    "categories": [
+      "petrochemicals"
+    ],
+    "featured": true,
+    "id": "ind-resins",
+    "intro": "Producers of resins, compounds and laminates.",
+    "name": "Resins & Laminates",
+    "order": 6,
+    "slug": "resins-laminates",
+    "status": "published"
+  },
+  {
+    "categories": [
+      "petrochemicals"
+    ],
+    "featured": true,
+    "id": "ind-detergents",
+    "intro": "Manufacturers of household and industrial cleaning products.",
+    "name": "Detergents",
+    "order": 7,
+    "slug": "detergents",
+    "status": "published"
+  },
+  {
+    "categories": [
+      "petrochemicals"
+    ],
+    "featured": true,
+    "id": "ind-lubricants",
+    "intro": "Blenders of lubricants and industrial oils.",
+    "name": "Lubricants",
+    "order": 8,
+    "slug": "lubricants",
+    "status": "published"
+  },
+  {
+    "categories": [
+      "petrochemicals"
+    ],
+    "featured": false,
+    "id": "ind-intermediates",
+    "intro": "Processors of basic chemical intermediates.",
+    "name": "Chemical Intermediates",
+    "order": 9,
+    "slug": "chemical-intermediates",
+    "status": "published"
+  }
+]

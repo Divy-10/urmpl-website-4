@@ -1,0 +1,86 @@
+[
+  {
+    "availability": "active",
+    "id": "cat-textile",
+    "image": "cat-textile",
+    "intro": "Cotton, polyester, viscose and nylon yarns — spun, filament and blended — for weavers and knitters.",
+    "name": "Textile Fibres & Yarns",
+    "order": 1,
+    "shortName": "Textile",
+    "slug": "textile",
+    "status": "published",
+    "summary": "Cotton, polyester, viscose, nylon and blended yarns"
+  },
+  {
+    "availability": "active",
+    "id": "cat-petrochemicals",
+    "image": "cat-petrochemicals",
+    "intro": "Polyester feedstocks, polymers and polyester filament and fibre for converters and spinners.",
+    "name": "Petrochemicals & Polymers",
+    "order": 2,
+    "shortName": "Petrochemicals",
+    "slug": "petrochemicals",
+    "status": "published",
+    "summary": "PTA, MEG, PVC resin, PET chips and polyester filament & fibre"
+  },
+  {
+    "availability": "in-preparation",
+    "id": "cat-chemicals",
+    "image": "cat-chemicals",
+    "intro": "Industrial chemicals for detergent, coatings, agrochemical and pharmaceutical manufacturers.",
+    "name": "Chemicals",
+    "order": 3,
+    "shortName": "Chemicals",
+    "slug": "chemicals",
+    "status": "published",
+    "summary": "Industrial chemicals for manufacturers"
+  },
+  {
+    "availability": "in-preparation",
+    "id": "cat-minerals",
+    "image": "cat-minerals",
+    "intro": {
+      "__pending": true,
+      "note": "Minerals description awaiting client"
+    },
+    "name": "Minerals",
+    "order": 4,
+    "shortName": "Minerals",
+    "slug": "minerals",
+    "status": "published",
+    "summary": {
+      "__pending": true,
+      "note": "Minerals product list awaiting client"
+    }
+  },
+  {
+    "availability": "in-preparation",
+    "id": "cat-agro",
+    "image": "cat-agro",
+    "intro": {
+      "__pending": true,
+      "note": "Agro description awaiting client"
+    },
+    "name": "Agro & Forest Products",
+    "order": 5,
+    "shortName": "Agro",
+    "slug": "agro",
+    "status": "published",
+    "summary": {
+      "__pending": true,
+      "note": "Agro product list awaiting client"
+    }
+  },
+  {
+    "availability": "in-preparation",
+    "id": "cat-packaging",
+    "image": "cat-packaging",
+    "intro": "Paper and packaging raw materials for mills and converters.",
+    "name": "Paper & Packaging",
+    "order": 6,
+    "shortName": "Packaging",
+    "slug": "packaging",
+    "status": "published",
+    "summary": "Paper and packaging materials"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "action": {
+      "href": "/contact?type=product#enquiry-form",
+      "label": "Ask about a product"
+    },
+    "description": "Questions about a material, grade or availability.",
+    "id": "product",
+    "inForm": true,
+    "label": "Product enquiry",
+    "order": 1
+  },
+  {
+    "action": {
+      "href": "/contact?type=general#enquiry-form",
+      "label": "Send a message"
+    },
+    "description": "Anything else about URMPL.",
+    "id": "general",
+    "inForm": true,
+    "label": "General enquiry",
+    "order": 2
+  },
+  {
+    "action": {
+      "href": "/contact?type=supplier#enquiry-form",
+      "label": "Introduce your company"
+    },
+    "description": "For producers and suppliers who would like to work with URMPL.",
+    "id": "supplier",
+    "inForm": true,
+    "label": "Partnership or supplier enquiry",
+    "order": 3
+  },
+  {
+    "action": {
+      "href": "/careers",
+      "label": "See careers"
+    },
+    "description": "Interest in working at URMPL.",
+    "id": "careers",
+    "inForm": true,
+    "label": "Careers",
+    "order": 4
+  },
+  {
+    "action": {
+      "href": "/request-quote",
+      "label": "Request a quote"
+    },
+    "description": "A specific requirement — product, quantity and destination.",
+    "id": "quote",
+    "inForm": false,
+    "label": "Request a quote",
+    "order": 5
+  }
+]

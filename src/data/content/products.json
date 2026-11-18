@@ -1,0 +1,445 @@
+[
+  {
+    "aliases": [
+      "terephthalic acid",
+      "polyester feedstock"
+    ],
+    "category": "petrochemicals",
+    "classification": {
+      "confirmed": false,
+      "note": "Listed under Petrochemicals on urmpl.com — placement awaiting client confirmation.",
+      "source": "urmpl.com"
+    },
+    "code": "PTA",
+    "description": {
+      "__pending": true,
+      "note": "Long-form product description awaiting URMPL"
+    },
+    "featured": true,
+    "id": "prd-pta",
+    "industries": [
+      "synthetic-fibres"
+    ],
+    "name": "Purified Terephthalic Acid",
+    "order": 1,
+    "shortDescription": "The principal feedstock for polyester — fibre, filament, PET resin and film.",
+    "slug": "pta",
+    "source": "urmpl.com",
+    "status": "published"
+  },
+  {
+    "aliases": [
+      "ethylene glycol",
+      "glycol"
+    ],
+    "category": "petrochemicals",
+    "classification": {
+      "confirmed": false,
+      "note": "Listed under Petrochemicals on urmpl.com — placement awaiting client confirmation.",
+      "source": "urmpl.com"
+    },
+    "code": "MEG",
+    "description": {
+      "__pending": true,
+      "note": "Long-form product description awaiting URMPL"
+    },
+    "featured": true,
+    "id": "prd-meg",
+    "industries": [
+      "synthetic-fibres"
+    ],
+    "name": "Monoethylene Glycol",
+    "order": 2,
+    "shortDescription": "Co-feedstock with PTA in polyester production; also used in coolants and resins.",
+    "slug": "meg",
+    "source": "urmpl.com",
+    "status": "published"
+  },
+  {
+    "aliases": [
+      "polyvinyl chloride",
+      "vinyl"
+    ],
+    "category": "petrochemicals",
+    "classification": {
+      "confirmed": false,
+      "note": "Listed under Petrochemicals on urmpl.com — placement awaiting client confirmation.",
+      "source": "urmpl.com"
+    },
+    "code": "PVC",
+    "description": {
+      "__pending": true,
+      "note": "Long-form product description awaiting URMPL"
+    },
+    "featured": true,
+    "id": "prd-pvc-resin",
+    "industries": [
+      "resins-laminates"
+    ],
+    "name": "PVC Resin",
+    "order": 3,
+    "shortDescription": "Polyvinyl chloride resin for pipes, profiles, film, flooring and cable compounds.",
+    "slug": "pvc-resin",
+    "source": "urmpl.com",
+    "status": "published"
+  },
+  {
+    "aliases": [
+      "polyethylene terephthalate",
+      "polyester chips",
+      "pet resin"
+    ],
+    "category": "petrochemicals",
+    "classification": {
+      "confirmed": false,
+      "note": "Listed under both Petrochemicals and Textile on urmpl.com.",
+      "source": "urmpl.com"
+    },
+    "code": "PET",
+    "crossListed": [
+      "textile"
+    ],
+    "description": {
+      "__pending": true,
+      "note": "Long-form product description awaiting URMPL"
+    },
+    "featured": true,
+    "id": "prd-pet-chips",
+    "industries": [
+      "synthetic-fibres"
+    ],
+    "name": "PET Chips",
+    "order": 4,
+    "shortDescription": "Polyethylene terephthalate chips for fibre, filament, bottle and film grades.",
+    "slug": "pet-chips",
+    "source": "urmpl.com",
+    "status": "published"
+  },
+  {
+    "aliases": [
+      "polyester poy",
+      "polyester filament"
+    ],
+    "category": "petrochemicals",
+    "classification": {
+      "confirmed": false,
+      "note": "Listed under Petrochemicals on urmpl.com — placement awaiting client confirmation.",
+      "source": "urmpl.com"
+    },
+    "code": "POY",
+    "description": {
+      "__pending": true,
+      "note": "Long-form product description awaiting URMPL"
+    },
+    "featured": true,
+    "id": "prd-poy",
+    "industries": [
+      "weaving-texturising"
+    ],
+    "name": "Partially Oriented Yarn",
+    "order": 5,
+    "shortDescription": "Polyester filament supplied as feedstock for draw-texturising into DTY.",
+    "slug": "poy",
+    "source": "urmpl.com",
+    "status": "published"
+  },
+  {
+    "aliases": [
+      "polyester fdy",
+      "polyester filament"
+    ],
+    "category": "petrochemicals",
+    "classification": {
+      "confirmed": false,
+      "note": "Listed under Petrochemicals on urmpl.com — placement awaiting client confirmation.",
+      "source": "urmpl.com"
+    },
+    "code": "FDY",
+    "description": {
+      "__pending": true,
+      "note": "Long-form product description awaiting URMPL"
+    },
+    "featured": true,
+    "id": "prd-fdy",
+    "industries": [
+      "weaving-texturising"
+    ],
+    "name": "Fully Drawn Yarn",
+    "order": 6,
+    "shortDescription": "Fully drawn polyester filament yarn for weaving and warp knitting.",
+    "slug": "fdy",
+    "source": "urmpl.com",
+    "status": "published"
+  },
+  {
+    "aliases": [
+      "polyester dty",
+      "textured yarn"
+    ],
+    "category": "petrochemicals",
+    "classification": {
+      "confirmed": false,
+      "note": "Listed under Petrochemicals on urmpl.com — placement awaiting client confirmation.",
+      "source": "urmpl.com"
+    },
+    "code": "DTY",
+    "description": {
+      "__pending": true,
+      "note": "Long-form product description awaiting URMPL"
+    },
+    "featured": true,
+    "id": "prd-dty",
+    "industries": [
+      "weaving-texturising"
+    ],
+    "name": "Draw Textured Yarn",
+    "order": 7,
+    "shortDescription": "Textured polyester filament with bulk and stretch for apparel and home textiles.",
+    "slug": "dty",
+    "source": "urmpl.com",
+    "status": "published"
+  },
+  {
+    "aliases": [
+      "staple fibre",
+      "polyester fibre"
+    ],
+    "category": "petrochemicals",
+    "classification": {
+      "confirmed": false,
+      "note": "Listed under Petrochemicals on urmpl.com — placement awaiting client confirmation.",
+      "source": "urmpl.com"
+    },
+    "code": "PSF",
+    "description": {
+      "__pending": true,
+      "note": "Long-form product description awaiting URMPL"
+    },
+    "featured": true,
+    "id": "prd-psf",
+    "industries": [
+      "synthetic-fibres"
+    ],
+    "name": "Polyester Staple Fibre",
+    "order": 8,
+    "shortDescription": "Cut polyester fibre for spinning, non-wovens and fibre fill.",
+    "slug": "psf",
+    "source": "urmpl.com",
+    "status": "published"
+  },
+  {
+    "aliases": [
+      "cotton"
+    ],
+    "category": "textile",
+    "classification": {
+      "confirmed": false,
+      "note": "Listed under Textile on urmpl.com — placement awaiting client confirmation.",
+      "source": "urmpl.com"
+    },
+    "description": {
+      "__pending": true,
+      "note": "Long-form product description awaiting URMPL"
+    },
+    "featured": false,
+    "id": "prd-cotton-yarn",
+    "industries": [
+      "weaving-texturising"
+    ],
+    "name": "Cotton Yarn",
+    "order": 9,
+    "shortDescription": "Spun cotton yarns for weaving and knitting.",
+    "slug": "cotton-yarn",
+    "source": "urmpl.com",
+    "status": "published"
+  },
+  {
+    "aliases": [
+      "polyester yarn",
+      "pfy"
+    ],
+    "category": "textile",
+    "classification": {
+      "confirmed": false,
+      "note": "Listed under Textile on urmpl.com — placement awaiting client confirmation.",
+      "source": "urmpl.com"
+    },
+    "description": {
+      "__pending": true,
+      "note": "Long-form product description awaiting URMPL"
+    },
+    "featured": false,
+    "id": "prd-polyester-filament-yarn",
+    "industries": [
+      "weaving-texturising"
+    ],
+    "name": "Polyester Filament Yarn",
+    "order": 10,
+    "shortDescription": "Continuous polyester filament yarns.",
+    "slug": "polyester-filament-yarn",
+    "source": "urmpl.com",
+    "status": "published"
+  },
+  {
+    "aliases": [
+      "polyester yarn",
+      "psy"
+    ],
+    "category": "textile",
+    "classification": {
+      "confirmed": false,
+      "note": "Listed under Textile on urmpl.com — placement awaiting client confirmation.",
+      "source": "urmpl.com"
+    },
+    "description": {
+      "__pending": true,
+      "note": "Long-form product description awaiting URMPL"
+    },
+    "featured": false,
+    "id": "prd-polyester-spun-yarn",
+    "industries": [
+      "weaving-texturising"
+    ],
+    "name": "Polyester Spun Yarn",
+    "order": 11,
+    "shortDescription": "Yarns spun from polyester staple fibre.",
+    "slug": "polyester-spun-yarn",
+    "source": "urmpl.com",
+    "status": "published"
+  },
+  {
+    "aliases": [
+      "viscose yarn",
+      "rayon",
+      "vfy"
+    ],
+    "category": "textile",
+    "classification": {
+      "confirmed": false,
+      "note": "Listed under Textile on urmpl.com — placement awaiting client confirmation.",
+      "source": "urmpl.com"
+    },
+    "description": {
+      "__pending": true,
+      "note": "Long-form product description awaiting URMPL"
+    },
+    "featured": false,
+    "id": "prd-viscose-filament-yarn",
+    "industries": [
+      "weaving-texturising"
+    ],
+    "name": "Viscose Filament Yarn",
+    "order": 12,
+    "shortDescription": "Continuous viscose (rayon) filament yarns.",
+    "slug": "viscose-filament-yarn",
+    "source": "urmpl.com",
+    "status": "published"
+  },
+  {
+    "aliases": [
+      "viscose yarn",
+      "rayon"
+    ],
+    "category": "textile",
+    "classification": {
+      "confirmed": false,
+      "note": "Listed under Textile on urmpl.com — placement awaiting client confirmation.",
+      "source": "urmpl.com"
+    },
+    "description": {
+      "__pending": true,
+      "note": "Long-form product description awaiting URMPL"
+    },
+    "featured": false,
+    "id": "prd-viscose-spun-yarn",
+    "industries": [
+      "weaving-texturising"
+    ],
+    "name": "Viscose Spun Yarn",
+    "order": 13,
+    "shortDescription": "Yarns spun from viscose staple fibre.",
+    "slug": "viscose-spun-yarn",
+    "source": "urmpl.com",
+    "status": "published"
+  },
+  {
+    "aliases": [
+      "polyamide"
+    ],
+    "category": "textile",
+    "classification": {
+      "confirmed": false,
+      "note": "Listed under Textile on urmpl.com — placement awaiting client confirmation.",
+      "source": "urmpl.com"
+    },
+    "description": {
+      "__pending": true,
+      "note": "Long-form product description awaiting URMPL"
+    },
+    "featured": false,
+    "id": "prd-nylon-yarn",
+    "industries": [
+      "weaving-texturising"
+    ],
+    "name": "Nylon Yarn",
+    "order": 14,
+    "shortDescription": "Nylon (polyamide) yarns.",
+    "slug": "nylon-yarn",
+    "source": "urmpl.com",
+    "status": "published"
+  },
+  {
+    "aliases": [
+      "blended yarn",
+      "pc yarn"
+    ],
+    "category": "textile",
+    "classification": {
+      "confirmed": false,
+      "note": "Listed under Textile on urmpl.com — placement awaiting client confirmation.",
+      "source": "urmpl.com"
+    },
+    "description": {
+      "__pending": true,
+      "note": "Long-form product description awaiting URMPL"
+    },
+    "featured": false,
+    "id": "prd-poly-cotton-blended-yarn",
+    "industries": [
+      "weaving-texturising"
+    ],
+    "name": "Poly-Cotton Blended Yarn",
+    "order": 15,
+    "shortDescription": "Yarns blended from polyester and cotton fibres.",
+    "slug": "poly-cotton-blended-yarn",
+    "source": "urmpl.com",
+    "status": "published"
+  },
+  {
+    "aliases": [
+      "blended yarn",
+      "pv yarn"
+    ],
+    "category": "textile",
+    "classification": {
+      "confirmed": false,
+      "note": "Listed under Textile on urmpl.com — placement awaiting client confirmation.",
+      "source": "urmpl.com"
+    },
+    "description": {
+      "__pending": true,
+      "note": "Long-form product description awaiting URMPL"
+    },
+    "featured": false,
+    "id": "prd-poly-viscose-blended-yarn",
+    "industries": [
+      "weaving-texturising"
+    ],
+    "name": "Poly-Viscose Blended Yarn",
+    "order": 16,
+    "shortDescription": "Yarns blended from polyester and viscose fibres.",
+    "slug": "poly-viscose-blended-yarn",
+    "source": "urmpl.com",
+    "status": "published"
+  }
+]

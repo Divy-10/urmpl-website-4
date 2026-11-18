@@ -1,0 +1,55 @@
+/* Demo 04 — "Wordmark & Wake" design tokens.
+   Derived from the reference video: ink-navy, white/mist, one saturated orange. */
+:root {
+  /* colour */
+  --ink: #0e1c2a;
+  --ink-2: #132637;
+  --ink-3: #1c3347;
+  --ink-line: rgba(255, 255, 255, 0.12);
+  --paper: #ffffff;
+  --mist: #f3f4f5;
+  --mist-2: #e9ecee;
+  --line: #e1e5e8;
+  --text: #0d1823;
+  --text-2: #3d4954;
+  --muted: #5d6974;      /* 5.6:1 on white */
+  --on-ink: #f4f6f8;
+  --on-ink-muted: #9fb0bf; /* 7.4:1 on ink */
+  --orange: #f26b1d;     /* fills only; text on it is ink (6.3:1) */
+  --orange-hot: #ff7b2c;
+  --orange-text: #b84a0c; /* orange for small text on white, 5.1:1 */
+  --focus: #ff8a3d;
+
+  /* type */
+  --font-display: 'Unbounded Variable', 'Unbounded', 'Arial Black', system-ui, sans-serif;
+  --font-sans: 'Inter Tight Variable', 'Inter Tight', 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --fs-xs: 0.75rem;
+  --fs-sm: 0.875rem;
+  --fs-md: 1rem;
+  --fs-lg: clamp(1.0625rem, 0.98rem + 0.3vw, 1.1875rem);
+  --fs-h4: clamp(1.125rem, 1rem + 0.5vw, 1.375rem);
+  --fs-h3: clamp(1.375rem, 1.1rem + 1vw, 1.875rem);
+  --fs-h2: clamp(1.75rem, 1.2rem + 2.1vw, 3rem);
+  --fs-h1: clamp(2.25rem, 1.4rem + 3.4vw, 4.5rem);
+  --fs-mark: clamp(4.25rem, 2rem + 11vw, 15rem);
+
+  /* space & shape */
+  --gutter: clamp(16px, 3.4vw, 48px);
+  --maxw: 1440px;
+  --sec: clamp(72px, 9vw, 152px);
+  --r-sm: 10px;
+  --r-md: 16px;
+  --r-lg: 24px;
+  --r-xl: 32px;
+  --pill: 999px;
+
+  /* motion */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-io: cubic-bezier(0.65, 0, 0.35, 1);
+  --t-fast: 180ms;
+  --t-mid: 520ms;
+  --t-slow: 1100ms;
+
+  --header-h: 76px;
+  --banner-h: 32px;
+}

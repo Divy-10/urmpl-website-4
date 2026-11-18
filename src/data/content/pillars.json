@@ -1,0 +1,68 @@
+[
+  {
+    "copyStatus": "draft",
+    "description": "Incorporated in Singapore and operating from one of the world’s most regulated trading hubs — with clear contracts and transparent documentation on every shipment.",
+    "detail": "Singapore’s legal system, banking network and position on the main east–west shipping lanes make it a natural base for cross-border trade. URMPL has been registered there since 2006, with contracts, documentation and settlement handled from one office.",
+    "id": "why-trust",
+    "order": 1,
+    "placement": [
+      "home",
+      "about"
+    ],
+    "proofLabel": "Incorporated in Singapore",
+    "proofValue": "2006",
+    "status": "published",
+    "title": "Singapore-grade trust"
+  },
+  {
+    "copyStatus": "draft",
+    "description": "As a trading and indenting house, we work directly with producers — the starting point for dependable allocation, competitive terms and consistent quality.",
+    "detail": "Indenting means working closely with producers on behalf of buyers: knowing what each mill makes, when it can ship and on what terms. That working relationship is what turns an enquiry into a dependable allocation.",
+    "id": "why-producers",
+    "order": 2,
+    "placement": [
+      "home",
+      "about"
+    ],
+    "proofLabel": "Producer relationships",
+    "proofValue": {
+      "__pending": true,
+      "note": "Principal / producer relationships awaiting permission to publish"
+    },
+    "status": "published",
+    "title": "Access to producers"
+  },
+  {
+    "copyStatus": "draft",
+    "description": "Supply arranged for repeat requirements, not single cargoes — so production lines keep running through market cycles.",
+    "detail": "Manufacturers need the same grade month after month. Supply is planned around repeat requirements and shipping schedules, rather than one cargo at a time.",
+    "id": "why-continuity",
+    "order": 3,
+    "placement": [
+      "home",
+      "about"
+    ],
+    "proofLabel": "Monthly volume",
+    "proofValue": {
+      "__pending": true,
+      "note": "Monthly volume awaiting confirmation"
+    },
+    "status": "published",
+    "title": "Volume & continuity"
+  },
+  {
+    "copyStatus": "draft",
+    "description": "Two decades in textile and petrochemical raw materials, with an understanding of how each destination market buys, ships and clears cargo.",
+    "detail": "Long experience in textile and petrochemical raw materials means a working knowledge of grades and producers — and of how each destination market buys, ships and clears cargo.",
+    "id": "why-knowledge",
+    "order": 4,
+    "placement": [
+      "home",
+      "about"
+    ],
+    "proofLabel": "Years trading",
+    "proofValue": "{yearsSinceFounding}",
+    "status": "published",
+    "title": "Market knowledge"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "copyStatus": "draft",
+    "id": "np-producers",
+    "order": 1,
+    "pillar": "why-producers",
+    "text": "Working with producers on behalf of buyers means each enquiry starts with someone who knows what is made where, and on what terms.",
+    "title": "Producer access"
+  },
+  {
+    "copyStatus": "draft",
+    "id": "np-knowledge",
+    "order": 2,
+    "pillar": "why-knowledge",
+    "text": "Each destination market buys, ships and clears cargo differently. Knowing those differences is part of arranging a trade that runs as agreed.",
+    "title": "Market knowledge"
+  },
+  {
+    "copyStatus": "draft",
+    "id": "np-continuity",
+    "order": 3,
+    "pillar": "why-continuity",
+    "text": "Supply is planned around repeat requirements rather than single cargoes, so the same grade can keep moving through market cycles.",
+    "title": "Continuity of supply"
+  },
+  {
+    "copyStatus": "draft",
+    "id": "np-coordination",
+    "order": 4,
+    "pillar": "why-trust",
+    "text": "Contracts, documentation and shipment follow-up are coordinated from one office in Singapore, between producers and buyers in different time zones.",
+    "title": "Coordinated from Singapore"
+  }
+]

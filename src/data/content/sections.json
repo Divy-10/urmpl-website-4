@@ -1,0 +1,474 @@
+[
+  {
+    "cta": {
+      "href": "/global-network",
+      "label": "Global network"
+    },
+    "eyebrow": "Global presence",
+    "id": "home-presence",
+    "image": "singapore-marina-bay",
+    "lead": "From our office in Singapore we supply manufacturers and traders across the regions where URMPL has built its networks since 2006.",
+    "title": "Singapore-based. *Globally* connected."
+  },
+  {
+    "body": [
+      "United Raw Material Pte. Ltd. was incorporated in Singapore in 2006. We connect producers with industrial buyers, arranging supply of textile fibres and yarns, polyester feedstocks, polymers, chemicals and packaging materials.",
+      "Our work is to make each trade dependable: the right grade from the right producer, clear contracts, complete documents, and cargo followed through to delivery."
+    ],
+    "cta": {
+      "href": "/about",
+      "label": "About URMPL"
+    },
+    "eyebrow": "Who we are",
+    "id": "home-intro",
+    "title": "A Singapore trading and indenting house for the raw materials industry runs on."
+  },
+  {
+    "cta": {
+      "href": "/products",
+      "label": "View all products"
+    },
+    "eyebrow": "What we trade",
+    "id": "home-trade",
+    "lead": "Each vertical is handled by people who know its grades, producers and buyers.",
+    "title": "Six trading verticals, one desk in Singapore."
+  },
+  {
+    "cta": {
+      "href": "/products",
+      "label": "Explore products"
+    },
+    "eyebrow": "Featured products",
+    "id": "home-featured",
+    "image": "cat-petrochemicals",
+    "lead": "Polyester feedstocks, polymers and polyester filament and fibre from our published range. Grade, packing and origin are confirmed for each enquiry.",
+    "title": "Feedstocks and yarns for the polyester chain."
+  },
+  {
+    "cta": {
+      "href": "/how-we-work",
+      "label": "How we work"
+    },
+    "eyebrow": "How we work",
+    "id": "home-process",
+    "lead": "Every trade follows the same five stages, managed from Singapore.",
+    "title": "From producer to port, *one* accountable desk."
+  },
+  {
+    "cta": {
+      "href": "/industries",
+      "label": "Explore industries"
+    },
+    "eyebrow": "Industries",
+    "id": "home-industries",
+    "lead": "Manufacturers in these sectors rely on raw materials we source and ship.",
+    "title": "Supplying the industries that make things."
+  },
+  {
+    "cta": {
+      "href": "/about",
+      "label": "About URMPL"
+    },
+    "eyebrow": "Why URMPL",
+    "id": "home-why",
+    "image": "container-wharf",
+    "title": "Four reasons to trade through *Singapore* with URMPL."
+  },
+  {
+    "cta": {
+      "href": "/global-network",
+      "label": "Explore global network"
+    },
+    "eyebrow": "Global network",
+    "id": "home-network",
+    "lead": "Our hub sits between producers and the markets we serve — across South, East and Southeast Asia, Europe and North America.",
+    "title": "Trade lanes that start in Singapore."
+  },
+  {
+    "cta": {
+      "href": "/insights",
+      "label": "View all insights"
+    },
+    "eyebrow": "Insights",
+    "id": "home-insights",
+    "lead": "This section will carry market notes and company updates. Until then, our Singapore office is happy to talk through your requirement.",
+    "secondaryCta": {
+      "href": "/contact",
+      "label": "Speak to our desk"
+    },
+    "title": "Market notes and product guides, *in preparation*."
+  },
+  {
+    "cta": {
+      "href": "/request-quote",
+      "label": "Request a Quote"
+    },
+    "eyebrow": "Request a quote",
+    "id": "home-cta",
+    "image": "tanker-aerial",
+    "lead": "Tell us the product, grade, quantity and destination. Our Singapore desk will come back to you with availability and terms.",
+    "secondaryCta": {
+      "href": "/contact",
+      "label": "Contact URMPL"
+    },
+    "title": "Looking for a reliable global raw-material partner?"
+  },
+  {
+    "eyebrow": "Product catalogue",
+    "id": "products-hero",
+    "lead": "Search the products we trade, browse by vertical, and request a quote for any grade. Specifications, packing and origin are confirmed for each enquiry.",
+    "title": "Industrial raw materials, *traded* from Singapore."
+  },
+  {
+    "eyebrow": "Catalogue",
+    "id": "products-catalogue",
+    "title": "All products"
+  },
+  {
+    "eyebrow": "Featured",
+    "id": "products-featured",
+    "title": "Feedstocks and yarns for the polyester chain."
+  },
+  {
+    "eyebrow": "Trading verticals",
+    "id": "products-verticals",
+    "title": "Browse by vertical."
+  },
+  {
+    "cta": {
+      "href": "/request-quote",
+      "label": "Request a Quote"
+    },
+    "eyebrow": "Request a quote",
+    "id": "products-quote",
+    "image": "port-container-ship",
+    "lead": "Tell us the product, specification, quantity and destination. If it sits within our verticals, our Singapore desk will look at sourcing it.",
+    "secondaryCta": {
+      "href": "/contact",
+      "label": "Contact URMPL"
+    },
+    "title": "Can’t see the grade you need?"
+  },
+  {
+    "eyebrow": "Range in preparation",
+    "id": "category-preparing",
+    "lead": "Tell us what you are looking for — grade, quantity and destination — and our Singapore desk will respond directly.",
+    "title": "We are finalising the products we publish in this vertical."
+  },
+  {
+    "body": [
+      "Product and grade or specification",
+      "Quantity in metric tonnes and frequency",
+      "Preferred packing",
+      "Destination port and Incoterm",
+      "Required shipment period"
+    ],
+    "eyebrow": "Specifications on request",
+    "id": "product-enquiry",
+    "lead": "To quote accurately, include the following in your request:",
+    "title": "Grade, packing and origin are confirmed for each enquiry."
+  },
+  {
+    "eyebrow": "About URMPL",
+    "id": "about-hero",
+    "image": "singapore-marina-bay",
+    "lead": "United Raw Material Pte. Ltd. trades and indents textile raw materials, yarns and petrochemicals for industrial buyers in international markets — from Singapore, since 2006.",
+    "title": "A Singapore trading house for *industrial* raw materials."
+  },
+  {
+    "body": [
+      "United Raw Material Pte. Ltd. was incorporated in Singapore in 2006 as a general trading company.",
+      "We supply textile raw materials, yarns and petrochemicals to industrial buyers — trading on our own account and acting as an indenter between producers and the mills, converters and manufacturers that buy from them."
+    ],
+    "eyebrow": "Who we are",
+    "id": "about-who",
+    "title": "Between the producer and the mill, *one* accountable desk."
+  },
+  {
+    "eyebrow": "Company story",
+    "id": "about-story",
+    "lead": "Our timeline lists only milestones we can document. More will be added as they are confirmed.",
+    "title": "From 2006 to today."
+  },
+  {
+    "cta": {
+      "href": "/contact",
+      "label": "Contact URMPL"
+    },
+    "eyebrow": "Leadership",
+    "id": "about-leadership",
+    "lead": "Profiles of URMPL’s leadership team will be published here. For an introduction, please contact our Singapore office.",
+    "title": "The people behind the desk."
+  },
+  {
+    "eyebrow": "Why URMPL",
+    "id": "about-why",
+    "title": "Why international buyers can *trust* a trade with us."
+  },
+  {
+    "cta": {
+      "href": "/global-network",
+      "label": "Explore global network"
+    },
+    "eyebrow": "Global presence",
+    "id": "about-presence",
+    "lead": "We supply buyers in the markets below from our office in Singapore.",
+    "title": "Singapore at the centre of every lane."
+  },
+  {
+    "cta": {
+      "href": "/request-quote",
+      "label": "Request a Quote"
+    },
+    "eyebrow": "Work with us",
+    "id": "about-cta",
+    "image": "port-container-ship",
+    "lead": "Share the product, grade, quantity and destination, or simply start a conversation with our Singapore desk.",
+    "secondaryCta": {
+      "href": "/contact",
+      "label": "Contact URMPL"
+    },
+    "title": "Tell us what you need to source."
+  },
+  {
+    "eyebrow": "Industries we serve",
+    "id": "industries-hero",
+    "lead": "URMPL connects raw-material supply with the manufacturers who turn it into fibre, fabric, medicine, coatings and everyday products.",
+    "title": "Raw materials for the industries that *make* things."
+  },
+  {
+    "eyebrow": "Industries",
+    "id": "industries-index",
+    "title": "The sectors we serve"
+  },
+  {
+    "eyebrow": "Coverage",
+    "id": "industries-matrix",
+    "lead": "Each industry draws on one or more of our trading verticals. Verticals marked in preparation have no published range yet.",
+    "title": "Which verticals serve which industries."
+  },
+  {
+    "cta": {
+      "href": "/about",
+      "label": "About URMPL"
+    },
+    "eyebrow": "Why URMPL",
+    "id": "industry-why",
+    "title": "What every buyer can expect from us."
+  },
+  {
+    "cta": {
+      "href": "/request-quote",
+      "label": "Request a Quote"
+    },
+    "eyebrow": "Request a quote",
+    "id": "industries-cta",
+    "image": "container-wharf",
+    "lead": "Tell us your industry, the material and grade you use, quantity and destination. Our Singapore desk will respond directly.",
+    "secondaryCta": {
+      "href": "/contact",
+      "label": "Contact URMPL"
+    },
+    "title": "Sourcing for your *production line*?"
+  },
+  {
+    "eyebrow": "Global network",
+    "id": "network-hero",
+    "image": "container-wharf",
+    "lead": "From one office in Singapore, URMPL connects producers with industrial buyers across South, East and Southeast Asia, Europe and North America — through trading and indenting relationships.",
+    "title": "Connected to markets. *Anchored* in Singapore."
+  },
+  {
+    "eyebrow": "Trade lanes",
+    "id": "network-map",
+    "lead": "Select a region to trace its lanes. The same information is listed below.",
+    "title": "Every lane runs through the hub."
+  },
+  {
+    "eyebrow": "Regions",
+    "id": "network-regions",
+    "lead": "The markets URMPL lists as established networks, grouped by region.",
+    "title": "Where we trade"
+  },
+  {
+    "body": [
+      "URMPL is registered and headquartered in Singapore, and runs its trading and indenting business from its office here."
+    ],
+    "cta": {
+      "href": "/contact",
+      "label": "Contact URMPL"
+    },
+    "eyebrow": "The hub",
+    "id": "network-hub",
+    "image": "singapore-marina-bay",
+    "secondaryCta": {
+      "href": "/request-quote",
+      "label": "Request a Quote"
+    },
+    "title": "Singapore, where every trade is *coordinated*."
+  },
+  {
+    "eyebrow": "In practice",
+    "id": "network-principles",
+    "title": "What the network means for a buyer."
+  },
+  {
+    "cta": {
+      "href": "/request-quote",
+      "label": "Request a Quote"
+    },
+    "eyebrow": "International requirements",
+    "id": "network-cta",
+    "image": "tanker-aerial",
+    "lead": "Tell us the material, the market and the quantity. Our Singapore desk will discuss how to route it.",
+    "secondaryCta": {
+      "href": "/contact",
+      "label": "Contact URMPL"
+    },
+    "title": "Buying or supplying across *borders*?"
+  },
+  {
+    "eyebrow": "How we work",
+    "id": "hww-hero",
+    "image": "port-container-ship",
+    "lead": "Every trade follows the same five stages — sourcing, quality and verification, commercial coordination, logistics and delivery — managed from Singapore.",
+    "title": "From requirement to *reliable* supply."
+  },
+  {
+    "eyebrow": "The process",
+    "id": "hww-process",
+    "lead": "The same sequence whether we trade a cargo ourselves or arrange it as an indent.",
+    "title": "Five stages, one accountable desk."
+  },
+  {
+    "eyebrow": "Trading & indenting",
+    "id": "hww-models",
+    "lead": "Which one fits depends on how the buyer and producer prefer to contract.",
+    "title": "Two ways we take part in a trade."
+  },
+  {
+    "cta": {
+      "href": "/about",
+      "label": "About URMPL"
+    },
+    "eyebrow": "What buyers can expect",
+    "id": "hww-expect",
+    "title": "The commitments behind every enquiry."
+  },
+  {
+    "eyebrow": "Start here",
+    "id": "hww-start",
+    "lead": "Begin from the product you need or from the industry you supply — either way, it ends with a quote.",
+    "title": "Every trade starts with a *requirement*."
+  },
+  {
+    "cta": {
+      "href": "/request-quote",
+      "label": "Request a Quote"
+    },
+    "eyebrow": "Request a quote",
+    "id": "hww-cta",
+    "lead": "Product, grade, quantity, destination and timing. Our Singapore desk takes it from there.",
+    "secondaryCta": {
+      "href": "/contact",
+      "label": "Contact URMPL"
+    },
+    "title": "Tell us your requirement."
+  },
+  {
+    "eyebrow": "Insights",
+    "id": "insights-hero",
+    "lead": "This section will carry company updates, perspectives on the materials we trade and notes on how supply moves. The first pieces are in preparation.",
+    "title": "Market perspective, *when it matters*."
+  },
+  {
+    "eyebrow": "Editorial streams",
+    "id": "insights-streams",
+    "lead": "Insights will be organised into three streams.",
+    "title": "Three streams, one *perspective*."
+  },
+  {
+    "eyebrow": "In preparation",
+    "id": "insights-preparing",
+    "lead": "Nothing is published here yet. In the meantime, the catalogue, the industries we serve and our Singapore office are a click away.",
+    "title": "Insights are in *preparation*."
+  },
+  {
+    "eyebrow": "Careers",
+    "id": "careers-hero",
+    "image": "singapore-marina-bay",
+    "lead": "URMPL is a Singapore trading and indenting house, connecting producers of industrial raw materials with buyers across Asia, Europe and North America.",
+    "title": "A career in *international* trade."
+  },
+  {
+    "eyebrow": "Working at URMPL",
+    "id": "careers-why",
+    "title": "What the work involves."
+  },
+  {
+    "eyebrow": "Current openings",
+    "id": "careers-openings",
+    "title": "Open positions"
+  },
+  {
+    "cta": {
+      "href": "/contact?type=careers#enquiry-form",
+      "label": "Contact URMPL"
+    },
+    "eyebrow": "Get in touch",
+    "id": "careers-cta",
+    "image": "container-wharf",
+    "lead": "No roles are listed at the moment. You are welcome to introduce yourself through our contact page.",
+    "secondaryCta": {
+      "href": "/about",
+      "label": "About URMPL"
+    },
+    "title": "Interested in *URMPL*?"
+  },
+  {
+    "eyebrow": "Contact",
+    "id": "contact-hero",
+    "lead": "Whether you are buying, supplying or simply asking, our Singapore office is the place to start.",
+    "title": "Let’s discuss your *requirement*."
+  },
+  {
+    "eyebrow": "How can we help",
+    "id": "contact-paths",
+    "title": "Choose the right starting point."
+  },
+  {
+    "eyebrow": "Send a message",
+    "id": "contact-form",
+    "lead": "Fields marked * are required.",
+    "title": "Write to *URMPL*."
+  },
+  {
+    "eyebrow": "Location",
+    "id": "contact-office",
+    "lead": "Our office is at Vertex, 33 Ubi Avenue 3.",
+    "title": "Singapore, at the centre of the *network*."
+  },
+  {
+    "eyebrow": "Request a quote",
+    "id": "rfq-hero",
+    "lead": "Share the material, quantity and destination. The more detail you give, the more precisely we can respond.",
+    "title": "Tell us your *requirement*."
+  },
+  {
+    "eyebrow": "Quote request",
+    "id": "rfq-form",
+    "title": "Two short *steps*."
+  },
+  {
+    "eyebrow": "Enquiry received",
+    "id": "rfq-success",
+    "lead": "Thank you. Your requirement has been sent to URMPL in Singapore.",
+    "title": "Your enquiry has been *received*."
+  },
+  {
+    "eyebrow": "Message received",
+    "id": "contact-success",
+    "lead": "Thank you for contacting URMPL. Your message has been sent to our Singapore office.",
+    "title": "Your message has been *received*."
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "address": {
+    "city": "Singapore",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "lines": [
+      "33 Ubi Avenue 3",
+      "#05-32 Vertex"
+    ],
+    "postalCode": "408868"
+  },
+  "brandName": "United Raw Material",
+  "businessModel": "Trading and indenting",
+  "careersEmail": {
+    "__pending": true,
+    "note": "Careers email not yet confirmed"
+  },
+  "coordinates": "01°20′N 103°54′E",
+  "email": {
+    "__pending": true,
+    "note": "Public email address not yet confirmed"
+  },
+  "foundedYear": 2006,
+  "geo": {
+    "lat": 1.334,
+    "lng": 103.896
+  },
+  "incorporatedOn": "2006-05-30",
+  "legalName": "United Raw Material Pte. Ltd.",
+  "logo": {
+    "__pending": true,
+    "note": "Final URMPL logo SVG not yet supplied"
+  },
+  "officeHours": {
+    "__pending": true,
+    "note": "Office hours not yet confirmed"
+  },
+  "phone": "+65 6323 1721",
+  "principalActivity": "General wholesale trade (SSIC 46900)",
+  "principals": {
+    "__pending": true,
+    "note": "Permission to display Formosa / OPTC not yet confirmed"
+  },
+  "salesEmail": {
+    "__pending": true,
+    "note": "Sales email not yet confirmed"
+  },
+  "shortName": "URMPL",
+  "tagline": {
+    "__pending": true,
+    "note": "Positioning line awaiting client approval (docs/01 §3.1)"
+  },
+  "uen": "200607763E"
+}

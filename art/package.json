@@ -1,0 +1,17 @@
+{
+  "name": "urmpl-demo-4-art",
+  "private": true,
+  "description": "Offline 3D render pipeline for Demo 04 imagery (three.js in headless Chromium). Not part of the website bundle.",
+  "type": "module",
+  "scripts": {
+    "render": "node render.mjs",
+    "encode": "node encode.mjs"
+  },
+  "dependencies": {
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "playwright": "^1.56.0",
+    "sharp": "^0.34.0"
+  }
+}

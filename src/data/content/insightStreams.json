@@ -1,0 +1,23 @@
+[
+  {
+    "copyStatus": "draft",
+    "description": "Perspectives on the raw materials URMPL trades — polyester feedstocks, polymers and textile yarns.",
+    "id": "market-materials",
+    "order": 1,
+    "title": "Market & Materials"
+  },
+  {
+    "copyStatus": "draft",
+    "description": "News and announcements from United Raw Material in Singapore.",
+    "id": "company-updates",
+    "order": 2,
+    "title": "Company Updates"
+  },
+  {
+    "copyStatus": "draft",
+    "description": "Notes on how a trade moves — specification, documentation, shipping and delivery.",
+    "id": "trade-supply",
+    "order": 3,
+    "title": "Trade & Supply"
+  }
+]

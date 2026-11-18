@@ -1,0 +1,57 @@
+[
+  {
+    "id": "prc-sourcing",
+    "placement": [
+      "home",
+      "how-we-work"
+    ],
+    "status": "published",
+    "step": 1,
+    "summary": "We match each enquiry to a suitable producer by grade, origin, volume and timing.",
+    "title": "Sourcing"
+  },
+  {
+    "id": "prc-quality",
+    "placement": [
+      "home",
+      "how-we-work"
+    ],
+    "status": "published",
+    "step": 2,
+    "summary": "Specifications and supporting documents are agreed before shipment, with independent inspection where the contract requires it.",
+    "title": "Quality & Verification"
+  },
+  {
+    "id": "prc-commercial",
+    "placement": [
+      "home",
+      "how-we-work"
+    ],
+    "status": "published",
+    "step": 3,
+    "summary": "Price, contract terms, Incoterms and payment are aligned between producer and buyer through one point of contact.",
+    "title": "Commercial Coordination"
+  },
+  {
+    "id": "prc-logistics",
+    "placement": [
+      "home",
+      "how-we-work"
+    ],
+    "status": "published",
+    "step": 4,
+    "summary": "Booking, shipping documents and tracking from load port to destination, coordinated from Singapore.",
+    "title": "Logistics"
+  },
+  {
+    "id": "prc-delivery",
+    "placement": [
+      "home",
+      "how-we-work"
+    ],
+    "status": "published",
+    "step": 5,
+    "summary": "We follow the cargo through to discharge, with the documents needed for clearance at destination.",
+    "title": "Delivery"
+  }
+]

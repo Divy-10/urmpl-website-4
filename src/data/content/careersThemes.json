@@ -1,0 +1,30 @@
+[
+  {
+    "copyStatus": "draft",
+    "id": "ct-international",
+    "order": 1,
+    "text": "Trades connect producers and buyers across South, East and Southeast Asia, Europe and North America.",
+    "title": "International by nature"
+  },
+  {
+    "copyStatus": "draft",
+    "id": "ct-materials",
+    "order": 2,
+    "text": "The work centres on industrial raw materials — textile fibres and yarns, petrochemicals and polymers.",
+    "title": "Close to the materials"
+  },
+  {
+    "copyStatus": "draft",
+    "id": "ct-whole-trade",
+    "order": 3,
+    "text": "From sourcing and verification to commercial terms, logistics and delivery — every stage is coordinated from one office.",
+    "title": "The whole of a trade"
+  },
+  {
+    "copyStatus": "draft",
+    "id": "ct-singapore",
+    "order": 4,
+    "text": "URMPL has been registered and headquartered in Singapore since 2006.",
+    "title": "Based in Singapore"
+  }
+]

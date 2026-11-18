@@ -1,0 +1,67 @@
+[
+  {
+    "description": "Singapore-based trader of textile fibres, petrochemicals, chemicals and packaging raw materials, connecting producers with industrial buyers since 2006.",
+    "ogImage": "hero-port-night",
+    "ogImageAlt": "Container cranes at a port at night",
+    "route": "/",
+    "title": "United Raw Material (URMPL) — Trading House, Singapore"
+  },
+  {
+    "description": "The URMPL product catalogue: PTA, MEG, PVC resin, PET chips, polyester filament and fibre, and cotton, viscose, nylon and blended yarns, traded from Singapore.",
+    "ogImage": "cat-petrochemicals",
+    "ogImageAlt": "Process plant at night",
+    "route": "/products",
+    "title": "Products — Industrial Raw Materials | URMPL"
+  },
+  {
+    "description": "United Raw Material Pte. Ltd. is a Singapore trading and indenting house, incorporated in 2006, supplying textile raw materials, yarns and petrochemicals.",
+    "ogImage": "singapore-marina-bay",
+    "ogImageAlt": "Marina Bay, Singapore, at night",
+    "route": "/about",
+    "title": "About URMPL — Singapore Trading House Since 2006"
+  },
+  {
+    "description": "The industries URMPL serves from Singapore: synthetic fibres, weaving and texturising, pharmaceuticals, agrochemicals, paints, resins, detergents, lubricants.",
+    "ogImage": "cat-petrochemicals",
+    "ogImageAlt": "Process plant at night",
+    "route": "/industries",
+    "title": "Industries We Serve | URMPL"
+  },
+  {
+    "description": "URMPL’s trading network: a Singapore hub connecting producers and industrial buyers in South, East and Southeast Asia, Europe and North America.",
+    "ogImage": "container-wharf",
+    "ogImageAlt": "Shipping containers on a wharf at dusk",
+    "route": "/global-network",
+    "title": "Global Network — Anchored in Singapore | URMPL"
+  },
+  {
+    "description": "How URMPL turns a requirement into supply: sourcing, verification, commercial coordination, logistics and delivery — trading and indenting from Singapore.",
+    "ogImage": "port-container-ship",
+    "ogImageAlt": "Container ship alongside gantry cranes",
+    "route": "/how-we-work",
+    "title": "How We Work — Trading & Indenting Process | URMPL"
+  },
+  {
+    "description": "Insights from United Raw Material, Singapore: market and materials perspectives, company updates and notes on trade and supply. First pieces in preparation.",
+    "route": "/insights",
+    "title": "Insights — Market & Materials, Trade & Supply | URMPL"
+  },
+  {
+    "description": "Careers at United Raw Material Pte. Ltd., a Singapore trading and indenting house for textile and petrochemical raw materials. See openings or get in touch.",
+    "ogImage": "singapore-marina-bay",
+    "ogImageAlt": "Marina Bay, Singapore, at night",
+    "route": "/careers",
+    "title": "Careers at URMPL — International Trade, Singapore"
+  },
+  {
+    "description": "Contact United Raw Material Pte. Ltd. at 33 Ubi Avenue 3, Singapore 408868, on +65 6323 1721, or send a product, supplier or general enquiry online.",
+    "route": "/contact",
+    "title": "Contact URMPL — Singapore Office"
+  },
+  {
+    "description": "Request a quote from URMPL for textile fibres, yarns, petrochemicals and polymers. Share the product, quantity and destination with our Singapore office.",
+    "noindex": true,
+    "route": "/request-quote",
+    "title": "Request a Quote | URMPL"
+  }
+]

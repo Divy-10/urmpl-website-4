@@ -1,0 +1,37 @@
+[
+  {
+    "copyStatus": "draft",
+    "description": "URMPL’s home region. Markets here are served directly from the Singapore hub.",
+    "id": "southeast-asia",
+    "name": "Southeast Asia",
+    "order": 1
+  },
+  {
+    "copyStatus": "draft",
+    "description": "Markets where URMPL lists established networks with buyers of textile and petrochemical raw materials.",
+    "id": "south-asia",
+    "name": "South Asia",
+    "order": 2
+  },
+  {
+    "copyStatus": "draft",
+    "description": "Markets where URMPL lists established networks, linking producers and buyers across the region.",
+    "id": "east-asia",
+    "name": "East Asia",
+    "order": 3
+  },
+  {
+    "copyStatus": "draft",
+    "description": "URMPL lists established networks in Eastern Europe, served from Singapore.",
+    "id": "europe",
+    "name": "Europe",
+    "order": 4
+  },
+  {
+    "copyStatus": "draft",
+    "description": "Markets where URMPL lists established networks, reached from Singapore across the Pacific.",
+    "id": "north-america",
+    "name": "North America",
+    "order": 5
+  }
+]

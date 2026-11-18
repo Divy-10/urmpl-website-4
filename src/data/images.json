@@ -1,0 +1,222 @@
+{
+  "aerial": {
+    "width": 1600,
+    "height": 1600,
+    "alt": "Rendered top-down view of a container ship with colourful containers on deep blue water",
+    "srcset": [
+      [
+        1400,
+        "/images/aerial-1400.webp"
+      ],
+      [
+        800,
+        "/images/aerial-800.webp"
+      ],
+      [
+        480,
+        "/images/aerial-480.webp"
+      ]
+    ]
+  },
+  "hero-sea-portrait": {
+    "width": 1080,
+    "height": 1500,
+    "alt": "Rendered container ship seen from astern on an overcast sea",
+    "srcset": [
+      [
+        1080,
+        "/images/hero-sea-portrait-1080.webp"
+      ],
+      [
+        640,
+        "/images/hero-sea-portrait-640.webp"
+      ]
+    ]
+  },
+  "hero-sea": {
+    "width": 2400,
+    "height": 1350,
+    "alt": "Rendered container ship sailing away across a grey, hazy sea, leaving a white wake",
+    "srcset": [
+      [
+        2400,
+        "/images/hero-sea-2400.webp"
+      ],
+      [
+        1440,
+        "/images/hero-sea-1440.webp"
+      ],
+      [
+        800,
+        "/images/hero-sea-800.webp"
+      ]
+    ]
+  },
+  "mat-agro": {
+    "width": 1600,
+    "height": 1600,
+    "alt": "Rendered stack of timber logs showing their cut ends",
+    "srcset": [
+      [
+        1400,
+        "/images/mat-agro-1400.webp"
+      ],
+      [
+        800,
+        "/images/mat-agro-800.webp"
+      ],
+      [
+        480,
+        "/images/mat-agro-480.webp"
+      ]
+    ]
+  },
+  "mat-chemicals": {
+    "width": 1600,
+    "height": 1600,
+    "alt": "Rendered rows of blue, white and grey steel drums on pallets",
+    "srcset": [
+      [
+        1400,
+        "/images/mat-chemicals-1400.webp"
+      ],
+      [
+        800,
+        "/images/mat-chemicals-800.webp"
+      ],
+      [
+        480,
+        "/images/mat-chemicals-480.webp"
+      ]
+    ]
+  },
+  "mat-minerals": {
+    "width": 1600,
+    "height": 1600,
+    "alt": "Rendered heap of grey and ochre mineral rock",
+    "srcset": [
+      [
+        1400,
+        "/images/mat-minerals-1400.webp"
+      ],
+      [
+        800,
+        "/images/mat-minerals-800.webp"
+      ],
+      [
+        480,
+        "/images/mat-minerals-480.webp"
+      ]
+    ]
+  },
+  "mat-packaging": {
+    "width": 1600,
+    "height": 1600,
+    "alt": "Rendered kraft and white paper reels standing in a warehouse",
+    "srcset": [
+      [
+        1400,
+        "/images/mat-packaging-1400.webp"
+      ],
+      [
+        800,
+        "/images/mat-packaging-800.webp"
+      ],
+      [
+        480,
+        "/images/mat-packaging-480.webp"
+      ]
+    ]
+  },
+  "mat-petrochemicals": {
+    "width": 1600,
+    "height": 1600,
+    "alt": "Rendered heap of white polymer pellets with a steel scoop",
+    "srcset": [
+      [
+        1400,
+        "/images/mat-petrochemicals-1400.webp"
+      ],
+      [
+        800,
+        "/images/mat-petrochemicals-800.webp"
+      ],
+      [
+        480,
+        "/images/mat-petrochemicals-480.webp"
+      ]
+    ]
+  },
+  "mat-textile": {
+    "width": 1600,
+    "height": 1600,
+    "alt": "Rendered rows of yarn cones in ecru, white, indigo and orange",
+    "srcset": [
+      [
+        1400,
+        "/images/mat-textile-1400.webp"
+      ],
+      [
+        800,
+        "/images/mat-textile-800.webp"
+      ],
+      [
+        480,
+        "/images/mat-textile-480.webp"
+      ]
+    ]
+  },
+  "port-dusk": {
+    "width": 2400,
+    "height": 1350,
+    "alt": "Rendered container terminal at dusk with quay cranes and a ship alongside",
+    "srcset": [
+      [
+        2400,
+        "/images/port-dusk-2400.webp"
+      ],
+      [
+        1440,
+        "/images/port-dusk-1440.webp"
+      ],
+      [
+        800,
+        "/images/port-dusk-800.webp"
+      ]
+    ]
+  },
+  "ship-broadside": {
+    "width": 2400,
+    "height": 1200,
+    "alt": "Rendered container ship on the horizon under an overcast sky",
+    "srcset": [
+      [
+        2400,
+        "/images/ship-broadside-2400.webp"
+      ],
+      [
+        1440,
+        "/images/ship-broadside-1440.webp"
+      ],
+      [
+        800,
+        "/images/ship-broadside-800.webp"
+      ]
+    ]
+  },
+  "ship-red": {
+    "width": 1600,
+    "height": 1200,
+    "alt": "Rendered red-hulled container ship at sea, seen from the bow quarter",
+    "srcset": [
+      [
+        1440,
+        "/images/ship-red-1440.webp"
+      ],
+      [
+        800,
+        "/images/ship-red-800.webp"
+      ]
+    ]
+  }
+}

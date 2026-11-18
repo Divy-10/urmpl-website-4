@@ -1,0 +1,24 @@
+[
+  {
+    "copyStatus": "draft",
+    "id": "trading",
+    "points": [
+      "One counterparty for the buyer, contracting from Singapore",
+      "Price, terms and documents agreed with URMPL",
+      "Suited to buyers who want a single point of contract"
+    ],
+    "summary": "URMPL buys from the producer and sells to the buyer, contracting with each side.",
+    "title": "Trading"
+  },
+  {
+    "copyStatus": "draft",
+    "id": "indenting",
+    "points": [
+      "URMPL matches the requirement to a producer and negotiates the terms",
+      "The sale contract and shipment run between producer and buyer",
+      "URMPL follows the order through to delivery"
+    ],
+    "summary": "URMPL arranges the order between producer and buyer, who then contract and ship directly.",
+    "title": "Indenting"
+  }
+]

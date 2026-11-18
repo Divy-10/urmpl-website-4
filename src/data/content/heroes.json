@@ -1,0 +1,18 @@
+[
+  {
+    "eyebrow": "Singapore · Since 2006",
+    "id": "hero-home",
+    "image": "hero-port-night",
+    "page": "home",
+    "primaryCta": {
+      "href": "/request-quote",
+      "label": "Request a Quote"
+    },
+    "secondaryCta": {
+      "href": "/products",
+      "label": "Explore Products"
+    },
+    "subtitle": "United Raw Material connects established producers with industrial buyers across Asia, Europe and North America — trading textile fibres, petrochemicals, chemicals and packaging materials from Singapore.",
+    "title": "Global trade. *Reliable* supply."
+  }
+]
